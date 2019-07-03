@@ -1,5 +1,5 @@
 # Bash-script-secure-sql-backup-over-ftp
-Create an encrypted backup file of your MySQL database and transfer it to an FTP server
+Create an encrypted backup file of your MySQL database and transfer it to a FTP server
 
 Usage:
 
